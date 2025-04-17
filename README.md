@@ -50,7 +50,7 @@ Because an engineer’s fantasy isn’t just about invention—it’s about the 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat" alt="Profile views" /> 
   <a href="https://github.com/yourusername?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/yourusername?color=green&style=flat" alt="Repositories" />
+
   </a>
 </div>
 

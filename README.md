@@ -1,6 +1,6 @@
 # fantasies-of-a-young-engineer
 
-###ENG:
+#ENG:
 In the quiet hum of midnight computations and the glow of a flickering screen, the young engineer dreams. Not of castles in the sky or mythical beasts, but of gears that turn without friction, circuits that think, and bridges that stretch beyond the horizon.
 
 His fantasies are built in steel and code—a world where every equation balances perfectly, where entropy bows to ingenuity. He imagines cities humming with renewable energy, engines powered by starlight, and machines that heal as gently as human hands.
@@ -11,7 +11,7 @@ Yet beneath the graphs and schematics, there’s a poet’s heart. For him, the 
 
 Because an engineer’s fantasy isn’t just about invention—it’s about the stubborn belief that tomorrow can always be built better.
 
-###RUS:
+#RUS:
 В тихом гуле ночных вычислений, под мерцающий свет экрана, молодой инженер грезит. Не о воздушных замках или мифических существах, а о шестернях, вращающихся без трения, схемах, способных мыслить, и мостах, уходящих за горизонт.
 
 Его фантазии выкованы из стали и кода — мир, где каждое уравнение идеально сходится, где энтропия покоряется изобретательности. Он представляет города, наполненные гулом возобновляемой энергии, двигатели, питаемые светом звёзд, и машины, исцеляющие так же бережно, как человеческие руки.

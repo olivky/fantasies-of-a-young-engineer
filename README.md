@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/student_1f9d1-200d-1f393.png" width="24px"/> Computer Science Student | 🇷🇺 Russia 
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/student_1f9d1-200d-1f393.png" width="24px"/> Computer Science Student | ⚙️
 </h3>
 
 <div align="center">
